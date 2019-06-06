@@ -1,4 +1,4 @@
-# How does it works ?
+# How does it works this Node.js project?
 > This project was made to understand http requests , put , delete, get and post.
 > this project is working with mongodb. we recomend use postman or insomia to prove the apis.
 >next we provide you the commands to install all dependencies
