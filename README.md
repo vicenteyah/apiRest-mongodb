@@ -6,7 +6,7 @@
 ```bash
 $ npm install
 ```
-### command to run the rest api using a npm commandconfigured in package.json
+### command to run the rest api using a npm command configured in package.json
 ```bash
 $ npm start
 ```
